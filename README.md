@@ -12,19 +12,21 @@ A comprehensive, console-based Library Management System developed using the C p
 
 This project is built with standard C libraries and is fully cross-platform (can run on Windows, Linux, or macOS). 
 
-1. **Clone the repository:**
+1.  **Clone the repository:**
    ```bash
    git clone https://github.com/SemaTheFirst/Library-Management-System-C.git
-   
-Navigate to the project directory and compile: You can use any standard C compiler like GCC.
-
-Bash
-gcc main.c -o library_system
-
-Run the program:
-
-On Windows: .\library_system.exe
-On Linux/Mac: ./library_system
+   ```
+2.  **Navigate to the project directory and compile:**     You can use any C compiler (like GCC).
+   ```bash
+   gcc main.c -o paneldepon
+   ```
+3.  **Run the game:**
+   ```bash
+   .\library_system.exe
+   ```
+   ```bash
+   ./library_system
+   ```
 
 (Note: On the very first run, the system will securely auto-generate the required .csv database files if they do not exist.)
 
@@ -59,3 +61,6 @@ On Linux/Mac: ./library_system
 * **Relational Database Logic:** Real-time CSV File I/O operations with synchronization across multiple data files.
 
 * **Advanced C Features:** Function Pointers (to maintain the DRY principle during list filtering) and array decay management.
+
+---
+**Developer:** Ayşe Sema Demir
