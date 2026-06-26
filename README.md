@@ -36,13 +36,13 @@ On Linux/Mac: ./library_system
 
 * **Core Operations:**
 
-* Data Entry: Add students, authors, and books. (Names can include spaces, and ISBNs are standard 13-digit formats).
+   * Data Entry: Add students, authors, and books. (Names can include spaces, and ISBNs are standard 13-digit formats).
 
-* Relational Matching: Link authors to their books via Menu 11.
+   * Relational Matching: Link authors to their books via Menu 11.
 
-* Borrow & Return: Issue books to students using system-generated Tag Numbers.
+   * Borrow & Return: Issue books to students using system-generated Tag Numbers.
 
-* Penalty Tracking: Check overdue books (Menu 10) by entering the current date (DD.MM.YYYY). The system automatically applies a 15-day deadline rule and decreases the student's library score if late.
+   * Penalty Tracking: Check overdue books (Menu 10) by entering the current date (DD.MM.YYYY). The system automatically applies a 15-day deadline rule and decreases the student's library score if late.
 
 * **Exit:** Always use Menu 15 to exit safely. This ensures all dynamic memory is freed and modifications are saved to the CSV files.
 
