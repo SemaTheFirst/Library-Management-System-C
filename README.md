@@ -30,11 +30,11 @@ On Linux/Mac: ./library_system
 
 ## 🖥️ How to Use
 
-* Start: Run the executable to open the main console menu.
+* **Start:** Run the executable to open the main console menu.
 
-* Navigation: The system operates on a 15-item numerical menu. Simply type the number of the operation you want to perform and press Enter.
+* **Navigation:** The system operates on a 15-item numerical menu. Simply type the number of the operation you want to perform and press Enter.
 
-* Core Operations:
+* **Core Operations:**
 
 * Data Entry: Add students, authors, and books. (Names can include spaces, and ISBNs are standard 13-digit formats).
 
@@ -44,7 +44,7 @@ On Linux/Mac: ./library_system
 
 * Penalty Tracking: Check overdue books (Menu 10) by entering the current date (DD.MM.YYYY). The system automatically applies a 15-day deadline rule and decreases the student's library score if late.
 
-* Exit: Always use Menu 15 to exit safely. This ensures all dynamic memory is freed and modifications are saved to the CSV files.
+* **Exit:** Always use Menu 15 to exit safely. This ensures all dynamic memory is freed and modifications are saved to the CSV files.
 
 ## 🛠️ Technical Details
 
