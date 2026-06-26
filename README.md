@@ -15,4 +15,4 @@ A comprehensive, console-based Library Management System developed using the C p
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/Library-Management-System.git](https://github.com/YourUsername/Library-Management-System.git)
+   git clone [https://github.com/SemaTheFirst/Library-Management-System-C.git]
